@@ -14,5 +14,6 @@ Functional:
 8. Get hash type
 
 # Usage
-Open Установить зависимости.bat, wait while all req's been installed
+Open install.bat, wait while all req's been installed
+
 Open start.bat / write on cmd: cd (dir to gui.py), py gui.py
