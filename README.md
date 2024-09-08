@@ -12,3 +12,7 @@ Functional:
 6. truecrypt2hashcat
 7. Parse .log files from logs
 8. Get hash type
+
+# Usage
+Open Установить зависимости.bat, wait while all req's been installed
+Open start.bat / write on cmd: cd (dir to gui.py), py gui.py
